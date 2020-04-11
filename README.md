@@ -2,7 +2,7 @@
 
 Fun game that randoms 2 dice and decides a winner
 
-![Dice](https://postimg.cc/7bGH42Sf)
+![Dice](https://i.postimg.cc/RCGNc1FQ/Dicee.jpg)
 
 # Tools used
 
